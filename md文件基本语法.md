@@ -19,12 +19,14 @@
 二、正文编辑的基本语法  
 1. 换行
 直接回车不能换行，可通过以下三种方式实现换行：
-
 方法1：在行末尾添加<br>
-
-方法2：在行末尾添加两个空格。（推荐）
-
+方法2：在行末尾添加两个空格。（推荐）  
 方法3：在两行之间插入一个空行。
 
-2. 强调
- 我们可以使用下面的方式给我们的文本添加强调的效果
+2.插入图片
+该图片需要在网络上存在，然后用以下格式显示图片：![图片名称](图片网址)
+![迪迦也想学数学](https://cn.bing.com/images/search?view=detailV2&ccid=3TDmqA3H&id=7DBC235E6C7244378525C08D98FF7AB481D61C3F&thid=OIP.3TDmqA3HcyqKyAo7zEKc8gHaFj&mediaurl=https%3a%2f%2fpic4.zhimg.com%2fv2-6ce7f8548214971c8b35caa23a888c1a_r.jpg%3fsource%3d1940ef5c&exph=1080&expw=1440&q=%e8%bf%aa%e8%bf%a6&simid=608040783931769713&FORM=IRPRST&ck=F71D37B7002424EFEE7604E4C3FA15BA&selectedIndex=29&ajaxhist=0&ajaxserp=0)
+
+3.上链接
+添加链接并给链接添加替换文本，格式如下： 
+[替换文本](https://www.baidu.com/)   

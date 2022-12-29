@@ -25,7 +25,7 @@
 
 2.插入图片
 该图片需要在网络上存在，然后用以下格式显示图片：![图片名称](图片网址)
-![图片]（https://ts1.cn.mm.bing.net/th?id=OIP-C.wc_dCG_KbIKZwMdtD3gL2QHaEt&w=313&h=199&c=8&rs=1&qlt=90&o=6&dpr=1.9&pid=3.1&rm=2）
+![图片](https://ts1.cn.mm.bing.net/th?id=OIP-C.wc_dCG_KbIKZwMdtD3gL2QHaEt&w=313&h=199&c=8&rs=1&qlt=90&o=6&dpr=1.9&pid=3.1&rm=2)
 
 3.上链接
 添加链接并给链接添加替换文本，格式如下： 

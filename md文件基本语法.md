@@ -25,7 +25,7 @@
 
 2.插入图片
 该图片需要在网络上存在，然后用以下格式显示图片：![图片名称](图片网址)
-![迪迦也想学数学](https://cn.bing.com/images/search?view=detailV2&ccid=3TDmqA3H&id=7DBC235E6C7244378525C08D98FF7AB481D61C3F&thid=OIP.3TDmqA3HcyqKyAo7zEKc8gHaFj&mediaurl=https%3a%2f%2fpic4.zhimg.com%2fv2-6ce7f8548214971c8b35caa23a888c1a_r.jpg%3fsource%3d1940ef5c&exph=1080&expw=1440&q=%e8%bf%aa%e8%bf%a6&simid=608040783931769713&FORM=IRPRST&ck=F71D37B7002424EFEE7604E4C3FA15BA&selectedIndex=29&ajaxhist=0&ajaxserp=0)
+![图片]（https://ts1.cn.mm.bing.net/th?id=OIP-C.wc_dCG_KbIKZwMdtD3gL2QHaEt&w=313&h=199&c=8&rs=1&qlt=90&o=6&dpr=1.9&pid=3.1&rm=2）
 
 3.上链接
 添加链接并给链接添加替换文本，格式如下： 
